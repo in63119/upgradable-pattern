@@ -1,0 +1,188 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ibrew/Desktop/upgradable-pattern/Inbrew-Proxy/contracts/Proxy.sol": {
+      "lastModificationDate": 1724995461194,
+      "contentHash": "caf1c859d9d75da4a78868060aa50e1a",
+      "sourceName": "contracts/Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./common/StorageSlot.sol",
+        "./common/Address.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Proxy"
+      ]
+    },
+    "/Users/ibrew/Desktop/upgradable-pattern/Inbrew-Proxy/contracts/common/StorageSlot.sol": {
+      "lastModificationDate": 1724918635266,
+      "contentHash": "14741d02f8a232094223ee449d97565f",
+      "sourceName": "contracts/common/StorageSlot.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "StorageSlot"
+      ]
+    },
+    "/Users/ibrew/Desktop/upgradable-pattern/Inbrew-Proxy/contracts/common/Address.sol": {
+      "lastModificationDate": 1724918561777,
+      "contentHash": "feeeec385d0cfd058438565ae23d321a",
+      "sourceName": "contracts/common/Address.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "Address"
+      ]
+    },
+    "/Users/ibrew/Desktop/upgradable-pattern/Inbrew-Proxy/contracts/V1.sol": {
+      "lastModificationDate": 1724985183526,
+      "contentHash": "1f1bda45cf3506aaa1c7f1453dc43a19",
+      "sourceName": "contracts/V1.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "V1"
+      ]
+    },
+    "/Users/ibrew/Desktop/upgradable-pattern/Inbrew-Proxy/contracts/V2.sol": {
+      "lastModificationDate": 1724994906951,
+      "contentHash": "ac4376182997020cd39937410673c7ae",
+      "sourceName": "contracts/V2.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "V2"
+      ]
+    }
+  }
+}
